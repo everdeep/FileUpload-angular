@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/rush122/FileUpload-angular-backend/tree/master/backend
+	url = https://github.com/rush122/FileUpload-angular-backend
 [submodule "FileUpload-angular-frontend"]
 	path = FileUpload-angular-frontend
 	url = https://github.com/rush122/FileUpload-angular-frontend
