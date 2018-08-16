@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rush122/FileUpload-angular-backend/tree/master/backend
+[submodule "FileUpload-angular-frontend"]
+	path = FileUpload-angular-frontend
+	url = https://github.com/rush122/FileUpload-angular-frontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rush122/FileUpload-angular-frontend
+[submodule "chatbot"]
+	path = chatbot
+	url = https://github.com/rush122/FileUpload-angular-chatbot
